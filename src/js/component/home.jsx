@@ -1,12 +1,14 @@
 import React from "react";
-import TodoApp from "./TodoApp";
+import App from "./app";
 
 
 const Home = () => {
 	return (
-		<>
-			<TodoApp />
-		</>
+		
+		
+		<App />
+		
+		
 	);
 };
 
